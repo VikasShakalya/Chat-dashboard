@@ -1,6 +1,5 @@
-Chat Dashboard Frontend
-
-A professional React + Material UI app designed to simulate some predefined interview questions.
+<=>Chat Dashboard Frontend
+  A professional React + Material UI app designed to simulate some predefined interview questions.
 
 #Features
 
